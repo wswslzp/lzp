@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Vim\vimfiles\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\filesystem\src\codecvt_error_category.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Vim\vimfiles\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\filesystem\src\operations.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Vim\vimfiles\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\filesystem\src\path.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Vim\vimfiles\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\filesystem\src\path_traits.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Vim\vimfiles\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\filesystem\src\portability.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Vim\vimfiles\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\filesystem\src\unique_path.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Vim\vimfiles\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\filesystem\src\utf8_codecvt_facet.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Vim\vimfiles\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\filesystem\src\windows_file_codecvt.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Vim\vimfiles\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\regex\src\c_regex_traits.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Vim\vimfiles\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\regex\src\cpp_regex_traits.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Vim\vimfiles\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\regex\src\cregex.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Vim\vimfiles\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\regex\src\fileiter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Vim\vimfiles\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\regex\src\icu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Vim\vimfiles\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\regex\src\instances.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Vim\vimfiles\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\regex\src\posix_api.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Vim\vimfiles\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\regex\src\regex.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Vim\vimfiles\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\regex\src\regex_debug.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Vim\vimfiles\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\regex\src\regex_raw_buffer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Vim\vimfiles\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\regex\src\regex_traits_defaults.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Vim\vimfiles\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\regex\src\static_mutex.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Vim\vimfiles\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\regex\src\usinstances.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Vim\vimfiles\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\regex\src\w32_regex_traits.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Vim\vimfiles\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\regex\src\wc_regex_traits.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Vim\vimfiles\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\regex\src\wide_posix_api.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Vim\vimfiles\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\libs\regex\src\winstances.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Vim\vimfiles\bundle\YouCompleteMe\third_party\ycmd\cpp\BoostParts\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{756AB857-08D5-303E-94A6-57335376B5F2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

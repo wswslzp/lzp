@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Vim\vimfiles\bundle\YouCompleteMe\third_party\ycmd\cpp\ycm\Candidate.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Vim\vimfiles\bundle\YouCompleteMe\third_party\ycmd\cpp\ycm\CandidateRepository.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Vim\vimfiles\bundle\YouCompleteMe\third_party\ycmd\cpp\ycm\Character.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Vim\vimfiles\bundle\YouCompleteMe\third_party\ycmd\cpp\ycm\CharacterRepository.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Vim\vimfiles\bundle\YouCompleteMe\third_party\ycmd\cpp\ycm\CodePoint.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Vim\vimfiles\bundle\YouCompleteMe\third_party\ycmd\cpp\ycm\CodePointRepository.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Vim\vimfiles\bundle\YouCompleteMe\third_party\ycmd\cpp\ycm\IdentifierCompleter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Vim\vimfiles\bundle\YouCompleteMe\third_party\ycmd\cpp\ycm\IdentifierDatabase.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Vim\vimfiles\bundle\YouCompleteMe\third_party\ycmd\cpp\ycm\IdentifierUtils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Vim\vimfiles\bundle\YouCompleteMe\third_party\ycmd\cpp\ycm\PythonSupport.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Vim\vimfiles\bundle\YouCompleteMe\third_party\ycmd\cpp\ycm\Result.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Vim\vimfiles\bundle\YouCompleteMe\third_party\ycmd\cpp\ycm\Utils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Vim\vimfiles\bundle\YouCompleteMe\third_party\ycmd\cpp\ycm\Word.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Vim\vimfiles\bundle\YouCompleteMe\third_party\ycmd\cpp\ycm\versioning.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Vim\vimfiles\bundle\YouCompleteMe\third_party\ycmd\cpp\ycm\ycm_core.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Vim\vimfiles\bundle\YouCompleteMe\third_party\ycmd\cpp\ycm\Candidate.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Vim\vimfiles\bundle\YouCompleteMe\third_party\ycmd\cpp\ycm\CandidateRepository.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Vim\vimfiles\bundle\YouCompleteMe\third_party\ycmd\cpp\ycm\Character.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Vim\vimfiles\bundle\YouCompleteMe\third_party\ycmd\cpp\ycm\CharacterRepository.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Vim\vimfiles\bundle\YouCompleteMe\third_party\ycmd\cpp\ycm\CodePoint.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Vim\vimfiles\bundle\YouCompleteMe\third_party\ycmd\cpp\ycm\CodePointRepository.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Vim\vimfiles\bundle\YouCompleteMe\third_party\ycmd\cpp\ycm\IdentifierCompleter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Vim\vimfiles\bundle\YouCompleteMe\third_party\ycmd\cpp\ycm\IdentifierDatabase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Vim\vimfiles\bundle\YouCompleteMe\third_party\ycmd\cpp\ycm\IdentifierUtils.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Vim\vimfiles\bundle\YouCompleteMe\third_party\ycmd\cpp\ycm\PythonSupport.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Vim\vimfiles\bundle\YouCompleteMe\third_party\ycmd\cpp\ycm\Result.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Vim\vimfiles\bundle\YouCompleteMe\third_party\ycmd\cpp\ycm\Utils.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Vim\vimfiles\bundle\YouCompleteMe\third_party\ycmd\cpp\ycm\Word.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Vim\vimfiles\bundle\YouCompleteMe\third_party\ycmd\cpp\ycm\versioning.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Vim\vimfiles\bundle\YouCompleteMe\third_party\ycmd\cpp\ycm\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{03356824-0EA6-3066-A749-A12422910C56}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{756AB857-08D5-303E-94A6-57335376B5F2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

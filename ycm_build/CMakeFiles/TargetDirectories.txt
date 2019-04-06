@@ -1,0 +1,6 @@
+C:/Vim/ycm_build/CMakeFiles/ALL_BUILD.dir
+C:/Vim/ycm_build/CMakeFiles/ZERO_CHECK.dir
+C:/Vim/ycm_build/BoostParts/CMakeFiles/BoostParts.dir
+C:/Vim/ycm_build/BoostParts/CMakeFiles/ALL_BUILD.dir
+C:/Vim/ycm_build/ycm/CMakeFiles/ycm_core.dir
+C:/Vim/ycm_build/ycm/CMakeFiles/ALL_BUILD.dir
